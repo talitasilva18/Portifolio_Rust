@@ -31,5 +31,5 @@ Imagine uma empresa fictícia chamada **TimeWise Analytics**, que precisa de uma
 Se você já tem Rust instalado, é só seguir:
 
 ```bash
-cd timewise_analytics
 cargo run
+

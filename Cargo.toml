@@ -1,0 +1,10 @@
+[package]
+name = "timewise_analytics"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lib]
+name = "timewise_analytics"
+path = "src/lib.rs"
